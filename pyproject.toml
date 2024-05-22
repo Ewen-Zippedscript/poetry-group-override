@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "poetry-group-override"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Ewen-Zippedscript <ewen@zippedscript.com>"]
 readme = "README.md"
+repository = "https://github.com/Ewen-Zippedscript/poetry-group-override"
+homepage = "https://github.com/Ewen-Zippedscript/poetry-group-override"
 
 [tool.poetry.dependencies]
 python = "^3.7"
